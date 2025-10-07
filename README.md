@@ -12,8 +12,7 @@
 - 🎮 Fun Fact: a avid Gamer and loves fictional books
 
 #
-
-### 🛠️ languages and tools 🛠️
+### 🛠️ languages and tools 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
 ![Javascipt](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
