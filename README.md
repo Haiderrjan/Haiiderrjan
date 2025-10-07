@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 About me 💻
+### 💻 About me 
 -  Currently self-learning web development technologies like Javascript,NodeJs,React
 - 📚 Currently learning Fullstack develepment frontend and backend.
 - 🚀 Future goals: To make cool projects and learn more technologies !
@@ -18,7 +18,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white)
+
 
 
 
@@ -26,7 +27,7 @@
 
 #
 
-### 🏆 My stats 🏆
+### 🏆 My stats 
 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderrjan&show_icons=true&theme=tokyonight)
 
