@@ -1,6 +1,9 @@
-# Haiiderrjan
+#  Heya, I'm  Haider Jan ! :3
 
-**` Self-Learning developer`**
+
+
+## `Self-Learning Developer`
+
 
 hello, I'm a self-taugh programmer passionate about learning and building programming projects. i enjoy working on personal projects and exploring differernt technoliges and improving my coding skills. At the moment i am focusing on Web develompent and full stack develepment in the future.
 
