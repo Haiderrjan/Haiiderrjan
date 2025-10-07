@@ -1,7 +1,7 @@
 #  Hi there, I'm Haider Jan 🤖
 
 
-**` A Self-Learning Developer`**
+**`A Self-Learning Developer`**
 
 
 ## 💻 About me 
