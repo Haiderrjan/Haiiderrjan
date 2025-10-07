@@ -4,7 +4,7 @@
 **` A Self-Learning Developer`**
 
 
-## 🙋‍♂️ About me 
+## 💻 About me 
 
 -  Currently self-learning web development technologies like Javascript,NodeJs,React
 - 📚 Currently learning Fullstack develepment frontend and backend.
