@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 About me 
+## 💻 About me 
 -  Currently self-learning web development technologies like Javascript,NodeJs,React
 - 📚 Currently learning Fullstack develepment frontend and backend.
 - 🚀 Future goals: To make cool projects and learn more technologies !
@@ -24,7 +24,7 @@
 
 #
 
-### 🏆 My stats 
+## 🏆 My stats 
 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderrjan&show_icons=true&theme=tokyonight)
 
