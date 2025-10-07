@@ -22,7 +22,9 @@ hello, I'm a self-taugh programmer passionate about learning and building progra
 #
 
 ### stats
+
 <details>
+ 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiiderrjan&show_icons=true&theme=gruvbox)
 
 </details>
