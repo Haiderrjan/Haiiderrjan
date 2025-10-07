@@ -1,28 +1,22 @@
-#  Heya, I'm  Haider Jan ! 🤖
+#  Hi there, I'm Haider Jan 🤖
 
 
 **` A Self-Learning Developer`**
 
----
 
-## 💻 About me 
+## 🙋‍♂️ About me 
+
 -  Currently self-learning web development technologies like Javascript,NodeJs,React
 - 📚 Currently learning Fullstack develepment frontend and backend.
 - 🚀 Future goals: To make cool projects and learn more technologies !
 - 🎮 Fun Fact: a avid Gamer and loves fictional books
 
 #
-### 🛠️ languages and tools 
+## 🛠️ languages and tools 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
 ![Javascipt](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-
-
-
-
-#
 
 ## 🏆 My stats 
 
@@ -41,7 +35,6 @@ Coding for me is a journey and i love the ups and down it has and everything in 
 Thanks for stopping by and feel free to connect or give me any tips i can improve on :) 
 </details> 
 
-#
 
 
           
