@@ -35,7 +35,7 @@
 #
 
 <details>
- <summary><h3>🚶‍➡️ Haider's coding journey 🚶‍➡️ </h3></summary>
+ <summary><h3> 🚶‍♂️ Haider's coding journey🚶‍♂️ </h3></summary>
 hello, I've just started my journey as a self-taught programmer. I'm a passionate about learning and building new and  cool programming projects. i enjoy working on personal projects and exploring differernt technoliges and improving my coding skills. 
  
 As of right now, i'm focusing mostly on web-development, hoping to create websites and apps that can be of use for me and other people. In the future i'm excited to dive deeper into full-stack development becoming a confident programmer working on front-end as well as back-end projects.
