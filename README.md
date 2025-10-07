@@ -36,14 +36,15 @@
 
 #
 
-### Contacts me 
-
-<img width="50px" style="padding-right:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-
-
 <details>
  <summary><h3>Haider's coding journey </h3></summary>
-hello, I'm a self-taugh programmer passionate about learning and building programming projects. i enjoy working on personal projects and exploring differernt technoliges and improving my coding skills. At the moment i am focusing on Web develompent and full stack develepment in the future.
+hello, I've just started my journey as a self-taught programmer. I'm a passionate about learning and building new and  cool programming projects. i enjoy working on personal projects and exploring differernt technoliges and improving my coding skills. 
+ 
+As of right now, i'm focusing mostly on web-development, hoping to create websites and apps that can be of use for me and other people. In the future i'm excited to dive deeper into full-stack development becoming a confident programmer working on front-end as well as back-end projects.
+
+Coding for me is a journey and i love the ups and down it has and everything in between. i'm excited to see where this journey will take me.
+
+Thanks for stopping by and feel free to connect or give me any tips i can improve on :) 
 </details> 
 
 #
