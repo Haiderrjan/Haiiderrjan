@@ -17,13 +17,10 @@
 
 <p align="center">
 
-<img alt="HTML" width="50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img  alt="HTML" width="50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img  alt="HTML" width="50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
- <img  alt="HTML" width="50px" style="padding-right:100000px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+ ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 </p>
 
 #
