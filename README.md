@@ -1,8 +1,9 @@
 #  Heya, I'm  Haider Jan ! 🤖
 
 
-
 ## `Self-Learning Developer`
+
+
 ---
 
 ### About me 
@@ -11,7 +12,7 @@
 - 🚀 Future goals: To make cool projects and learn more technologies !
 - 🎮 Fun Fact: a avid Gamer and loves fictional books
 
-#
+
 
 ### languages and tools 
 
