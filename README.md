@@ -1,4 +1,4 @@
-#  Heya, I'm  Haider Jan ! :3
+#  Heya, I'm  Haider Jan ! 🤖
 
 
 
@@ -6,10 +6,10 @@
 ---
 
 ### About me 
-- Currently self-learning web development technologies like Javascript,NodeJs,React
-- Currently learning Fullstack develepment frontend and backend.
-- Future goals: To make cool projects and learn more technologies !
-- Fun Fact: a avid Gamer and loves fictional books
+- 👨🏻‍💻 Currently self-learning web development technologies like Javascript,NodeJs,React
+- 📚 Currently learning Fullstack develepment frontend and backend.
+- 🚀 Future goals: To make cool projects and learn more technologies !
+- 🎮 Fun Fact: a avid Gamer and loves fictional books
 
 #
 
