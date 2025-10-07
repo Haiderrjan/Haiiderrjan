@@ -1,7 +1,7 @@
 #  Heya, I'm  Haider Jan ! 🤖
 
 
-## `Self-Learning Developer`
+**`Self-Learning Developer`**
 
 ### About me 
 - 👨🏻‍💻 Currently self-learning web development technologies like Javascript,NodeJs,React
