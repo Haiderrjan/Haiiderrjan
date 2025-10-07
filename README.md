@@ -25,8 +25,10 @@ hello, I'm a self-taugh programmer passionate about learning and building progra
 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderrjan&show_icons=true&theme=tokyonight)
 
-<details>
- <!-- <summary><h3>Haider's coding journey </h3></summary>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+<!-- <details>
+ <summary><h3>Haider's coding journey </h3></summary>
 </details> -->
  
 
